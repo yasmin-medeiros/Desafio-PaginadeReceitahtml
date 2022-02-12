@@ -2,7 +2,7 @@
 
 Desenvolvendo uma página web. O conteúdo da página é sobre uma receita, que conta com título, imagem, lista de ingredientes e modo de preparo.
 
-- Desafio proposto pelo Discover - Rocketseat.
+#### - Desafio proposto pelo Discover - Rocketseat.
 
 ## Tecnologias 🌐👩🏻‍💻
 
