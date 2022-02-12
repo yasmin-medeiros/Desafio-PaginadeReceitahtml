@@ -4,4 +4,12 @@ Desenvolvendo uma página web. O conteúdo da página é sobre uma receita, que 
 
 - Desafio proposto pelo Discover - Rocketseat.
 
-## Tecnologias
+## Tecnologias 🌐👩🏻‍💻
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML
+- CSS
+
+
+
